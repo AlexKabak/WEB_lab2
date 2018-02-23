@@ -1,0 +1,31 @@
+body{
+    background-color: #81cec7;
+}
+.coloids img{
+    min-width: 500px;
+    position: absolute;
+}
+.clouds img{
+    top: -8px;
+    left: 180px;
+    height: 100px;
+    width: 100px;
+}
+.world img{
+    top: 100px;
+    left: 100px;
+    height: 300px;
+    width: 300px;
+}
+.water img{
+    top: 150px;
+    left: 100px;
+    height: 500px;
+    width: 500px;
+}
+.wodden-s img{
+    top: 275px;
+    left: -85px;
+    height: 110px;
+    width: 100px;
+}
